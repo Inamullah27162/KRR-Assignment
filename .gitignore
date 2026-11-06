@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+
+apache-jena-fuseki-6.2.0/
+apache-jena-fuseki-6.2.0.zip
+
+A1-Student-Instructions final.pdf
+ASSIGNMENT_SHEET (1).md
