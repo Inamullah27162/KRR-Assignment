@@ -1,0 +1,16 @@
+PREFIX ex: <http://example.org/kg/24p-0009/>
+
+SELECT ?person ?birthplace
+WHERE {
+  GRAPH <http://example.org/kg/24p-0009/graph> {
+    VALUES ?person {
+      ex:Charles_H_Townes
+      ex:Erwin_Schrdinger
+      ex:Eugene_Wigner
+      ex:Murray_Gell-Mann
+      ex:Richard_Feynman
+    }
+    OPTIONAL { ?person ex:bornIn ?birthplace . }
+  }
+}
+ORDER BY ?person

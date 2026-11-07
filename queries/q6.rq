@@ -1,0 +1,9 @@
+PREFIX ex: <http://example.org/kg/24p-0009/>
+
+SELECT ?student ?advisor
+WHERE {
+  GRAPH <http://example.org/kg/24p-0009/graph> {
+    ?student ex:doctoralAdvisor+ ?advisor .
+  }
+}
+ORDER BY ?student

@@ -1,0 +1,8 @@
+SHACL VALIDATION REPORT
+=======================
+
+Total RDF triples: 68
+Conforms: True
+
+Validation Report
+Conforms: True

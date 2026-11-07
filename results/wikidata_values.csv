@@ -1,0 +1,147 @@
+person,qid,predicate,wikidata_property,value
+Eugene Wigner,Q155790,bornIn,P19,Budapest
+Eugene Wigner,Q155790,educatedAt,P69,Fasori Gimnázium
+Eugene Wigner,Q155790,educatedAt,P69,Technische Universität Berlin
+Eugene Wigner,Q155790,receivedAward,P166,Albert Einstein Award
+Eugene Wigner,Q155790,receivedAward,P166,Atoms for Peace Award
+Eugene Wigner,Q155790,receivedAward,P166,Enrico Fermi Award
+Eugene Wigner,Q155790,receivedAward,P166,Fellow of the American Physical Society
+Eugene Wigner,Q155790,receivedAward,P166,Foreign Member of the Royal Society
+Eugene Wigner,Q155790,receivedAward,P166,Franklin Medal
+Eugene Wigner,Q155790,receivedAward,P166,John von Neumann Prize
+Eugene Wigner,Q155790,receivedAward,P166,Josiah Willard Gibbs Lectureship
+Eugene Wigner,Q155790,receivedAward,P166,Max Planck Medal
+Eugene Wigner,Q155790,receivedAward,P166,Medal for Merit
+Eugene Wigner,Q155790,receivedAward,P166,National Medal of Science
+Eugene Wigner,Q155790,receivedAward,P166,Nobel Prize in Physics
+Eugene Wigner,Q155790,receivedAward,P166,Richtmyer Memorial Lecture Award
+Eugene Wigner,Q155790,receivedAward,P166,Wigner Medal
+Eugene Wigner,Q155790,worksAt,P108,Leiden University
+Eugene Wigner,Q155790,worksAt,P108,Manhattan Project
+Eugene Wigner,Q155790,worksAt,P108,Oak Ridge National Laboratory
+Eugene Wigner,Q155790,worksAt,P108,Princeton University
+Eugene Wigner,Q155790,worksAt,P108,Technische Universität Berlin
+Eugene Wigner,Q155790,worksAt,P108,University of Göttingen
+Eugene Wigner,Q155790,worksAt,P108,University of Wisconsin–Madison
+Eugene Wigner,Q155790,doctoralAdvisor,P184,Michael Polanyi
+Charles H. Townes,Q184566,bornIn,P19,Greenville
+Charles H. Townes,Q184566,educatedAt,P69,California Institute of Technology
+Charles H. Townes,Q184566,educatedAt,P69,Duke University
+Charles H. Townes,Q184566,educatedAt,P69,Furman University
+Charles H. Townes,Q184566,educatedAt,P69,Greenville High School
+Charles H. Townes,Q184566,receivedAward,P166,C.E.K. Mees Medal
+Charles H. Townes,Q184566,receivedAward,P166,Comstock Prize in Physics
+Charles H. Townes,Q184566,receivedAward,P166,Earle K. Plyler Prize
+Charles H. Townes,Q184566,receivedAward,P166,Fellow of the American Academy of Arts and Sciences
+Charles H. Townes,Q184566,receivedAward,P166,Fellow of the American Physical Society
+Charles H. Townes,Q184566,receivedAward,P166,Foreign Member of the Royal Society
+Charles H. Townes,Q184566,receivedAward,P166,Frederic Ives Medal
+Charles H. Townes,Q184566,receivedAward,P166,Guggenheim Fellowship
+Charles H. Townes,Q184566,receivedAward,P166,Henry Norris Russell Lectureship
+Charles H. Townes,Q184566,receivedAward,P166,IEEE David Sarnoff Award
+Charles H. Townes,Q184566,receivedAward,P166,IEEE Medal of Honor
+Charles H. Townes,Q184566,receivedAward,P166,IEEE Morris N. Liebmann Memorial Award
+Charles H. Townes,Q184566,receivedAward,P166,John J. Carty Award for the Advancement of Science
+Charles H. Townes,Q184566,receivedAward,P166,John Scott Award
+Charles H. Townes,Q184566,receivedAward,P166,Karl G. Jansky Lectureship
+Charles H. Townes,Q184566,receivedAward,P166,Karl Schwarzschild Medal
+Charles H. Townes,Q184566,receivedAward,P166,Lomonosov Gold Medal
+Charles H. Townes,Q184566,receivedAward,P166,Mendel Medal
+Charles H. Townes,Q184566,receivedAward,P166,National Inventors Hall of Fame
+Charles H. Townes,Q184566,receivedAward,P166,National Medal of Science
+Charles H. Townes,Q184566,receivedAward,P166,Niels Bohr International Gold Medal
+Charles H. Townes,Q184566,receivedAward,P166,Nobel Prize in Physics
+Charles H. Townes,Q184566,receivedAward,P166,Petrie Prize Lecture
+Charles H. Townes,Q184566,receivedAward,P166,Remsen Award
+Charles H. Townes,Q184566,receivedAward,P166,Richtmyer Memorial Lecture Award
+Charles H. Townes,Q184566,receivedAward,P166,Rumford Prize
+Charles H. Townes,Q184566,receivedAward,P166,SPIE Gold Medal
+Charles H. Townes,Q184566,receivedAward,P166,Science Writing Award
+Charles H. Townes,Q184566,receivedAward,P166,Stuart Ballantine Medal
+Charles H. Townes,Q184566,receivedAward,P166,Templeton Prize
+Charles H. Townes,Q184566,receivedAward,P166,Wilhelm Exner Medal
+Charles H. Townes,Q184566,receivedAward,P166,Young Medal and Prize
+Charles H. Townes,Q184566,receivedAward,P166,honorary doctorate from ENS
+Charles H. Townes,Q184566,worksAt,P108,Massachusetts Institute of Technology
+Charles H. Townes,Q184566,worksAt,P108,"University of California, Berkeley"
+Charles H. Townes,Q184566,worksAt,P108,University of Michigan
+Charles H. Townes,Q184566,doctoralAdvisor,P184,William Ralph Smythe
+Richard Feynman,Q39246,bornIn,P19,Far Rockaway
+Richard Feynman,Q39246,bornIn,P19,Queens
+Richard Feynman,Q39246,educatedAt,P69,Far Rockaway High School
+Richard Feynman,Q39246,educatedAt,P69,Massachusetts Institute of Technology
+Richard Feynman,Q39246,educatedAt,P69,Princeton University
+Richard Feynman,Q39246,receivedAward,P166,Albert Einstein Award
+Richard Feynman,Q39246,receivedAward,P166,Ernest Orlando Lawrence Award
+Richard Feynman,Q39246,receivedAward,P166,Fellow of the American Physical Society
+Richard Feynman,Q39246,receivedAward,P166,Foreign Member of the Royal Society
+Richard Feynman,Q39246,receivedAward,P166,National Medal of Science
+Richard Feynman,Q39246,receivedAward,P166,Niels Bohr International Gold Medal
+Richard Feynman,Q39246,receivedAward,P166,Nobel Prize in Physics
+Richard Feynman,Q39246,receivedAward,P166,Oersted Medal
+Richard Feynman,Q39246,receivedAward,P166,Putnam Fellow
+Richard Feynman,Q39246,worksAt,P108,California Institute of Technology
+Richard Feynman,Q39246,worksAt,P108,Cornell University
+Richard Feynman,Q39246,worksAt,P108,Manhattan Project
+Richard Feynman,Q39246,doctoralAdvisor,P184,John Archibald Wheeler
+Erwin Schrödinger,Q9130,bornIn,P19,Vienna
+Erwin Schrödinger,Q9130,educatedAt,P69,Akademisches Gymnasium
+Erwin Schrödinger,Q9130,educatedAt,P69,University of Oxford
+Erwin Schrödinger,Q9130,educatedAt,P69,University of Vienna
+Erwin Schrödinger,Q9130,receivedAward,P166,Austrian Decoration for Science and Art
+Erwin Schrödinger,Q9130,receivedAward,P166,Erwin Schrödinger Prize
+Erwin Schrödinger,Q9130,receivedAward,P166,Fellow of the American Physical Society
+Erwin Schrödinger,Q9130,receivedAward,P166,Foreign Member of the Royal Society
+Erwin Schrödinger,Q9130,receivedAward,P166,Haitinger Prize
+Erwin Schrödinger,Q9130,receivedAward,P166,Matteucci Medal
+Erwin Schrödinger,Q9130,receivedAward,P166,Max Planck Medal
+Erwin Schrödinger,Q9130,receivedAward,P166,Nobel Prize in Physics
+Erwin Schrödinger,Q9130,receivedAward,P166,Pour le Mérite
+Erwin Schrödinger,Q9130,receivedAward,P166,Pour le Mérite for Sciences and Arts order
+Erwin Schrödinger,Q9130,receivedAward,P166,Prix Paul Doistau-Émile Blutet de l’Information Scientifique
+Erwin Schrödinger,Q9130,receivedAward,P166,Prize of the City of Vienna for Natural Sciences
+Erwin Schrödinger,Q9130,worksAt,P108,Dublin Institute for Advanced Studies
+Erwin Schrödinger,Q9130,worksAt,P108,Frederick William University Berlin
+Erwin Schrödinger,Q9130,worksAt,P108,Ghent University
+Erwin Schrödinger,Q9130,worksAt,P108,Humboldt-Universität zu Berlin
+Erwin Schrödinger,Q9130,worksAt,P108,University of Graz
+Erwin Schrödinger,Q9130,worksAt,P108,University of Jena
+Erwin Schrödinger,Q9130,worksAt,P108,University of Oxford
+Erwin Schrödinger,Q9130,worksAt,P108,University of Stuttgart
+Erwin Schrödinger,Q9130,worksAt,P108,University of Vienna
+Erwin Schrödinger,Q9130,worksAt,P108,University of Wrocław
+Erwin Schrödinger,Q9130,worksAt,P108,University of Zurich
+Erwin Schrödinger,Q9130,doctoralAdvisor,P184,Franz S. Exner
+Erwin Schrödinger,Q9130,doctoralAdvisor,P184,Friedrich Hasenöhrl
+Murray Gell-Mann,Q172840,bornIn,P19,Lower Manhattan
+Murray Gell-Mann,Q172840,educatedAt,P69,Columbia Grammar & Preparatory School
+Murray Gell-Mann,Q172840,educatedAt,P69,Jonathan Edwards College
+Murray Gell-Mann,Q172840,educatedAt,P69,Massachusetts Institute of Technology
+Murray Gell-Mann,Q172840,educatedAt,P69,Yale College
+Murray Gell-Mann,Q172840,educatedAt,P69,Yale University
+Murray Gell-Mann,Q172840,receivedAward,P166,Albert Einstein Medal
+Murray Gell-Mann,Q172840,receivedAward,P166,Dannie Heineman Prize for Mathematical Physics
+Murray Gell-Mann,Q172840,receivedAward,P166,Ernest Orlando Lawrence Award
+Murray Gell-Mann,Q172840,receivedAward,P166,Fellow of the American Academy of Arts and Sciences
+Murray Gell-Mann,Q172840,receivedAward,P166,Fellow of the American Physical Society
+Murray Gell-Mann,Q172840,receivedAward,P166,Fellow of the Committee for Skeptical Inquiry
+Murray Gell-Mann,Q172840,receivedAward,P166,Fellow of the Pakistan Academy of Sciences
+Murray Gell-Mann,Q172840,receivedAward,P166,Foreign Member of the Royal Society
+Murray Gell-Mann,Q172840,receivedAward,P166,Franklin Medal
+Murray Gell-Mann,Q172840,receivedAward,P166,Golden Plate Award
+Murray Gell-Mann,Q172840,receivedAward,P166,Guggenheim Fellowship
+Murray Gell-Mann,Q172840,receivedAward,P166,Helmholtz Medal
+Murray Gell-Mann,Q172840,receivedAward,P166,Honorary doctor of the University of Oxford
+Murray Gell-Mann,Q172840,receivedAward,P166,Honorary doctorate of the University of Florida
+Murray Gell-Mann,Q172840,receivedAward,P166,Humanist of the Year
+Murray Gell-Mann,Q172840,receivedAward,P166,John J. Carty Award for the Advancement of Science
+Murray Gell-Mann,Q172840,receivedAward,P166,Nobel Prize in Physics
+Murray Gell-Mann,Q172840,receivedAward,P166,Richtmyer Memorial Lecture Award
+Murray Gell-Mann,Q172840,receivedAward,P166,William Procter Prize for Scientific Achievement
+Murray Gell-Mann,Q172840,receivedAward,P166,honorary doctor of Yale University
+Murray Gell-Mann,Q172840,receivedAward,P166,honorary doctor of the University of Chicago
+Murray Gell-Mann,Q172840,receivedAward,P166,honorary doctorate from Columbia University
+Murray Gell-Mann,Q172840,receivedAward,P166,honorary doctorate from the University of Cambridge
+Murray Gell-Mann,Q172840,worksAt,P108,California Institute of Technology
+Murray Gell-Mann,Q172840,worksAt,P108,University of Chicago
+Murray Gell-Mann,Q172840,doctoralAdvisor,P184,Victor Weisskopf

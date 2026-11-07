@@ -1,0 +1,35 @@
+
+@prefix ex: <http://example.org/kg/24p-0009/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+# Person shape
+ex:PersonShape
+    a sh:NodeShape ;
+    sh:targetClass ex:Person ;
+
+    sh:property [
+        sh:path ex:bornIn ;
+        sh:class ex:Place ;
+        sh:maxCount 1 ;
+    ] ;
+
+    sh:property [
+        sh:path ex:educatedAt ;
+        sh:class ex:Organization ;
+    ] ;
+
+    sh:property [
+        sh:path ex:receivedAward ;
+        sh:class ex:Award ;
+    ] ;
+
+    sh:property [
+        sh:path ex:worksAt ;
+        sh:class ex:Organization ;
+    ] ;
+
+    sh:property [
+        sh:path ex:doctoralAdvisor ;
+        sh:class ex:Person ;
+    ] .

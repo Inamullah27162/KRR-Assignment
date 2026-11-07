@@ -1,0 +1,44 @@
+
+@prefix ex: <http://example.org/kg/24p-0009/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+# Classes
+ex:Person a owl:Class .
+ex:Place a owl:Class .
+ex:Organization a owl:Class .
+ex:Award a owl:Class .
+
+# Disjoint classes
+ex:Person owl:disjointWith ex:Place,
+                           ex:Organization,
+                           ex:Award .
+
+ex:Place owl:disjointWith ex:Organization .
+
+# Property: bornIn
+ex:bornIn a owl:ObjectProperty,
+             owl:FunctionalProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Place .
+
+# Property: educatedAt
+ex:educatedAt a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Organization .
+
+# Property: receivedAward
+ex:receivedAward a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Award .
+
+# Property: worksAt
+ex:worksAt a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Organization .
+
+# Property: doctoralAdvisor
+ex:doctoralAdvisor a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Person .

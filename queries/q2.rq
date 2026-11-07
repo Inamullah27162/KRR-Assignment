@@ -1,0 +1,14 @@
+PREFIX ex: <http://example.org/kg/24p-0009/>
+
+SELECT ?predicate (COUNT(?object) AS ?total)
+WHERE {
+  GRAPH <http://example.org/kg/24p-0009/graph> {
+    ?subject ?predicate ?object .
+    VALUES ?predicate {
+      ex:bornIn ex:educatedAt ex:receivedAward
+      ex:worksAt ex:doctoralAdvisor
+    }
+  }
+}
+GROUP BY ?predicate
+ORDER BY ?predicate

@@ -1,0 +1,138 @@
+@prefix ex: <http://example.org/kg/24p-0009/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:Charles_H_Townes a ex:Person ;
+    ex:bornIn ex:Greenville ;
+    ex:educatedAt ex:Furman_University ;
+    ex:receivedAward ex:Nobel_Prize .
+
+ex:Erwin_Schrdinger a ex:Person ;
+    ex:bornIn ex:Vienna ;
+    ex:doctoralAdvisor ex:Friedrich_Hasenhrl ;
+    ex:receivedAward ex:Haitinger_Prize,
+        ex:Nobel_Prize ;
+    ex:worksAt ex:newly-established_Dublin_Institute .
+
+ex:Eugene_Wigner a ex:Person ;
+    ex:bornIn ex:Budapest ;
+    ex:educatedAt ex:the_Budapest_University ;
+    ex:receivedAward ex:Albert_Einstein_Award,
+        ex:Atoms_for_Peace_Award,
+        ex:Enrico_Fermi_award,
+        ex:Franklin_Medal,
+        ex:Golden_Plate_Award,
+        ex:Herzl_Prize,
+        ex:Max_Planck_Medal,
+        ex:National_Medal_of_Science,
+        ex:Nobel_Prize,
+        ex:Wigner_Medal .
+
+ex:Murray_Gell-Mann a ex:Person ;
+    ex:bornIn ex:Lower_Manhattan ;
+    ex:educatedAt ex:Yale_College ;
+    ex:receivedAward ex:Nobel_Prize .
+
+ex:Richard_Feynman a ex:Person ;
+    ex:bornIn ex:Queens ;
+    ex:doctoralAdvisor ex:John_Archibald_Wheeler ;
+    ex:receivedAward ex:Albert_Einstein_Award,
+        ex:National_Medal_of_Science,
+        ex:Nobel_Prize,
+        ex:Oersted_Medal .
+
+ex:Rukhsana_Bhatti ex:bornIn ex:Bahawalpur ;
+    ex:doctoralAdvisor ex:Osman_Gilani ;
+    ex:educatedAt ex:Harrowgate_Institute,
+        ex:Northgate_University ;
+    ex:receivedAward ex:Marlowe_Medal .
+
+ex:bornIn a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Place .
+
+ex:doctoralAdvisor a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Person .
+
+ex:educatedAt a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Organization .
+
+ex:receivedAward a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Award .
+
+ex:worksAt a owl:ObjectProperty ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Organization .
+
+ex:Atoms_for_Peace_Award a ex:Award .
+
+ex:Bahawalpur a ex:Place .
+
+ex:Budapest a ex:Place .
+
+ex:Enrico_Fermi_award a ex:Award .
+
+ex:Franklin_Medal a ex:Award .
+
+ex:Friedrich_Hasenhrl a ex:Person .
+
+ex:Furman_University a ex:Organization .
+
+ex:Golden_Plate_Award a ex:Award .
+
+ex:Greenville a ex:Place .
+
+ex:Haitinger_Prize a ex:Award .
+
+ex:Harrowgate_Institute a ex:Organization .
+
+ex:Herzl_Prize a ex:Award .
+
+ex:John_Archibald_Wheeler a ex:Person .
+
+ex:Lower_Manhattan a ex:Place .
+
+ex:Marlowe_Medal a ex:Award .
+
+ex:Max_Planck_Medal a ex:Award .
+
+ex:Northgate_University a ex:Organization .
+
+ex:Oersted_Medal a ex:Award .
+
+ex:Osman_Gilani a ex:Person .
+
+ex:Queens a ex:Place .
+
+ex:Vienna a ex:Place .
+
+ex:Wigner_Medal a ex:Award .
+
+ex:Yale_College a ex:Organization .
+
+ex:newly-established_Dublin_Institute a ex:Organization .
+
+ex:the_Budapest_University a ex:Organization .
+
+ex:Albert_Einstein_Award a ex:Award .
+
+ex:National_Medal_of_Science a ex:Award .
+
+ex:Nobel_Prize a ex:Award .
+
+ex:Place a owl:Class ;
+    owl:disjointWith ex:Organization .
+
+ex:Organization a owl:Class .
+
+ex:Person a owl:Class ;
+    owl:disjointWith ex:Award,
+        ex:Organization,
+        ex:Place .
+
+ex:Award a owl:Class .
+

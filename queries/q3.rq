@@ -1,0 +1,11 @@
+PREFIX ex: <http://example.org/kg/24p-0009/>
+
+SELECT ?person1 ?person2 ?birthplace
+WHERE {
+  GRAPH <http://example.org/kg/24p-0009/graph> {
+    ?person1 ex:bornIn ?birthplace .
+    ?person2 ex:bornIn ?birthplace .
+    FILTER(?person1 < ?person2)
+  }
+}
+ORDER BY ?birthplace

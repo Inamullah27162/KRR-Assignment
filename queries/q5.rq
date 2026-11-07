@@ -1,0 +1,12 @@
+PREFIX ex: <http://example.org/kg/24p-0009/>
+
+SELECT ?person
+WHERE {
+  GRAPH <http://example.org/kg/24p-0009/graph> {
+    ?person a ex:Person .
+    FILTER NOT EXISTS {
+      ?person ex:educatedAt ?institution .
+    }
+  }
+}
+ORDER BY ?person
