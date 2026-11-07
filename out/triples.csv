@@ -7,14 +7,14 @@ Charles earned a B.S. in Physics and a B.A. in Modern Languages from Furman Univ
 Erwin Schrödinger,receivedAward,Nobel Prize,erwin_schrodinger.txt,"Schrödinger shared the 1933 Nobel Prize in Physics with Paul Dirac ""for the discovery of new productive forms of atomic theory""."
 Erwin Schrödinger,bornIn,Vienna,erwin_schrodinger.txt,"== Early life and education ==
 Erwin Rudolf Josef Alexander Schrödinger was born on 12 August 1887 in Vienna, the only child of Rudolf Schrödinger, a botanist, and Georgine Emilia Brenda Bauer, the daughter of a chemistry professor at TU Wien."
-Erwin Schrödinger,worksAt,newly-established Dublin Institute,erwin_schrodinger.txt,"The following year, he joined the newly-established Dublin Institute for Advanced Studies as Director of the School of Theoretical Physics, a position he held until his retirement in 1955."
+Erwin Schrödinger,educatedAt,University of Vienna,erwin_schrodinger.txt,"In 1906, he entered the University of Vienna as a student of Wilhelm Wirtinger, Franz S. Exner, and Friedrich Hasenöhrl, receiving a Doctor of Philosophy in 1910 under the supervision of Hasenöhrl."
+Erwin Schrödinger,worksAt,Dublin Institute for Advanced Studies,erwin_schrodinger.txt,"The following year, he joined the newly-established Dublin Institute for Advanced Studies as Director of the School of Theoretical Physics, a position he held until his retirement in 1955."
 Erwin Schrödinger,receivedAward,Haitinger Prize,erwin_schrodinger.txt,"For this work, he was awarded the Haitinger Prize of the Austrian Academy of Sciences in 1920."
 Erwin Schrödinger,doctoralAdvisor,Friedrich Hasenöhrl,erwin_schrodinger.txt,"In 1906, he entered the University of Vienna as a student of Wilhelm Wirtinger, Franz S. Exner, and Friedrich Hasenöhrl, receiving a Doctor of Philosophy in 1910 under the supervision of Hasenöhrl."
 Eugene Wigner,receivedAward,Nobel Prize,eugene_wigner.txt,"He received the Nobel Prize in Physics in 1963 ""for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles""."
 Eugene Wigner,bornIn,Budapest,eugene_wigner.txt,"== Early life and education ==
 
 Wigner Jenő Pál was born in Budapest, Austria-Hungary on November 17, 1902, to middle class Jewish parents, Elisabeth Elsa Einhorn and Antal Anton Wigner, a leather tanner."
-Eugene Wigner,educatedAt,the Budapest University,eugene_wigner.txt,"After graduating from the secondary school in 1920, Wigner enrolled at the Budapest University of Technical Sciences, known as the Műegyetem."
 Eugene Wigner,receivedAward,Franklin Medal,eugene_wigner.txt,"He also won the Franklin Medal in 1950, the Enrico Fermi award in 1958, the Atoms for Peace Award in 1959, the Max Planck Medal in 1961, the National Medal of Science in 1969, the Albert Einstein Award in 1972, the Golden Plate Award of the American Academy of Achievement in 1974, the eponymous Wigner Medal in 1978, and the Herzl Prize in 1982."
 Eugene Wigner,receivedAward,Enrico Fermi award,eugene_wigner.txt,"He also won the Franklin Medal in 1950, the Enrico Fermi award in 1958, the Atoms for Peace Award in 1959, the Max Planck Medal in 1961, the National Medal of Science in 1969, the Albert Einstein Award in 1972, the Golden Plate Award of the American Academy of Achievement in 1974, the eponymous Wigner Medal in 1978, and the Herzl Prize in 1982."
 Eugene Wigner,receivedAward,Atoms for Peace Award,eugene_wigner.txt,"He also won the Franklin Medal in 1950, the Enrico Fermi award in 1958, the Atoms for Peace Award in 1959, the Max Planck Medal in 1961, the National Medal of Science in 1969, the Albert Einstein Award in 1972, the Golden Plate Award of the American Academy of Achievement in 1974, the eponymous Wigner Medal in 1978, and the Herzl Prize in 1982."
@@ -29,10 +29,13 @@ Murray Gell-Mann,bornIn,Lower Manhattan,murray_gell_mann.txt,"== Life and educat
 
 Gell-Mann was born in Lower Manhattan to a family of Jewish immigrants from the Austro-Hungarian Empire, specifically from Czernowitz in present-day Ukraine."
 Murray Gell-Mann,educatedAt,Yale College,murray_gell_mann.txt,Gell-Mann graduated valedictorian from the Columbia Grammar & Preparatory School aged 14 and subsequently entered Yale College as a member of Jonathan Edwards College.
+Murray Gell-Mann,educatedAt,Massachusetts Institute of Technology,murray_gell_mann.txt,He was then accepted by the Massachusetts Institute of Technology (MIT) and received a letter from Victor Weisskopf urging him to attend MIT and become Weisskopf's research assistant.
 Rukhsana Bhatti,bornIn,Bahawalpur,private_document.txt,Rukhsana Bhatti was born in Bahawalpur in 1939.
 Rukhsana Bhatti,educatedAt,Northgate University,private_document.txt,She studied at Northgate University and later at Harrowgate Institute of Technology.
-Rukhsana Bhatti,educatedAt,Harrowgate Institute,private_document.txt,She studied at Northgate University and later at Harrowgate Institute of Technology.
+Rukhsana Bhatti,educatedAt,Harrowgate Institute of Technology,private_document.txt,She studied at Northgate University and later at Harrowgate Institute of Technology.
 Rukhsana Bhatti,receivedAward,Marlowe Medal,private_document.txt,She received the Marlowe Medal in 1990.
+Rukhsana Bhatti,worksAt,Northgate Institute of Physics,private_document.txt,"In 1967, Dr. Bhatti joined Northgate Institute of Physics."
+Osman Gilani,worksAt,Calder Institute of Technology,private_document.txt,He later moved to Calder Institute of Technology.
 Rukhsana Bhatti,doctoralAdvisor,Osman Gilani,private_document.txt,Rukhsana Bhatti's doctoral advisor was Osman Gilani.
 Richard Feynman,receivedAward,Nobel Prize,richard_feynman.txt,"He shared the 1965 Nobel Prize in Physics with Julian Schwinger and Shin'ichirō Tomonaga ""for their fundamental work in quantum electrodynamics (QED), with deep-ploughing consequences for the physics of elementary particles""."
 Richard Feynman,bornIn,Queens,richard_feynman.txt,"== Early life ==

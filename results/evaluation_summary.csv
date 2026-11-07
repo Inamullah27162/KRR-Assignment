@@ -1,6 +1,6 @@
 predicate,TP,FP,FN,precision,recall
 bornIn,5,0,1,1.0,0.833
-educatedAt,2,1,14,0.667,0.125
+educatedAt,4,0,12,1.0,0.25
 receivedAward,16,2,75,0.889,0.176
-worksAt,0,1,26,0.0,0.0
+worksAt,1,0,25,1.0,0.038
 doctoralAdvisor,2,0,4,1.0,0.333

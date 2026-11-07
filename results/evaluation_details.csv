@@ -6,19 +6,18 @@ Murray Gell-Mann,bornIn,lower manhattan,TP
 Richard Feynman,bornIn,queens,TP
 Richard Feynman,bornIn,far rockaway,FN
 Charles H. Townes,educatedAt,furman university,TP
+Erwin Schrödinger,educatedAt,university of vienna,TP
+Murray Gell-Mann,educatedAt,massachusetts institute of technology,TP
 Murray Gell-Mann,educatedAt,yale,TP
-Eugene Wigner,educatedAt,the budapest university,FP
 Charles H. Townes,educatedAt,california institute of technology,FN
 Charles H. Townes,educatedAt,duke university,FN
 Charles H. Townes,educatedAt,greenville high school,FN
 Erwin Schrödinger,educatedAt,akademisches gymnasium,FN
 Erwin Schrödinger,educatedAt,university of oxford,FN
-Erwin Schrödinger,educatedAt,university of vienna,FN
 Eugene Wigner,educatedAt,fasori gimnazium,FN
 Eugene Wigner,educatedAt,technische universitat berlin,FN
 Murray Gell-Mann,educatedAt,columbia grammar preparatory school,FN
 Murray Gell-Mann,educatedAt,jonathan edwards college,FN
-Murray Gell-Mann,educatedAt,massachusetts institute of technology,FN
 Richard Feynman,educatedAt,far rockaway high school,FN
 Richard Feynman,educatedAt,massachusetts institute of technology,FN
 Richard Feynman,educatedAt,princeton university,FN
@@ -115,11 +114,10 @@ Richard Feynman,receivedAward,fellow of the american physical society,FN
 Richard Feynman,receivedAward,foreign member of the royal society,FN
 Richard Feynman,receivedAward,niels bohr international gold medal,FN
 Richard Feynman,receivedAward,putnam fellow,FN
-Erwin Schrödinger,worksAt,newly established dublin institute,FP
+Erwin Schrödinger,worksAt,dublin institute for advanced studies,TP
 Charles H. Townes,worksAt,massachusetts institute of technology,FN
 Charles H. Townes,worksAt,university of california berkeley,FN
 Charles H. Townes,worksAt,university of michigan,FN
-Erwin Schrödinger,worksAt,dublin institute for advanced studies,FN
 Erwin Schrödinger,worksAt,frederick william university berlin,FN
 Erwin Schrödinger,worksAt,ghent university,FN
 Erwin Schrödinger,worksAt,humboldt universitat zu berlin,FN

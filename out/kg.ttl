@@ -10,13 +10,13 @@ ex:Charles_H_Townes a ex:Person ;
 ex:Erwin_Schrdinger a ex:Person ;
     ex:bornIn ex:Vienna ;
     ex:doctoralAdvisor ex:Friedrich_Hasenhrl ;
+    ex:educatedAt ex:University_of_Vienna ;
     ex:receivedAward ex:Haitinger_Prize,
         ex:Nobel_Prize ;
-    ex:worksAt ex:newly-established_Dublin_Institute .
+    ex:worksAt ex:Dublin_Institute_for_Advanced_Studies .
 
 ex:Eugene_Wigner a ex:Person ;
     ex:bornIn ex:Budapest ;
-    ex:educatedAt ex:the_Budapest_University ;
     ex:receivedAward ex:Albert_Einstein_Award,
         ex:Atoms_for_Peace_Award,
         ex:Enrico_Fermi_award,
@@ -30,7 +30,8 @@ ex:Eugene_Wigner a ex:Person ;
 
 ex:Murray_Gell-Mann a ex:Person ;
     ex:bornIn ex:Lower_Manhattan ;
-    ex:educatedAt ex:Yale_College ;
+    ex:educatedAt ex:Massachusetts_Institute_of_Technology,
+        ex:Yale_College ;
     ex:receivedAward ex:Nobel_Prize .
 
 ex:Richard_Feynman a ex:Person ;
@@ -43,9 +44,10 @@ ex:Richard_Feynman a ex:Person ;
 
 ex:Rukhsana_Bhatti ex:bornIn ex:Bahawalpur ;
     ex:doctoralAdvisor ex:Osman_Gilani ;
-    ex:educatedAt ex:Harrowgate_Institute,
+    ex:educatedAt ex:Harrowgate_Institute_of_Technology,
         ex:Northgate_University ;
-    ex:receivedAward ex:Marlowe_Medal .
+    ex:receivedAward ex:Marlowe_Medal ;
+    ex:worksAt ex:Northgate_Institute_of_Physics .
 
 ex:bornIn a owl:FunctionalProperty,
         owl:ObjectProperty ;
@@ -74,6 +76,10 @@ ex:Bahawalpur a ex:Place .
 
 ex:Budapest a ex:Place .
 
+ex:Calder_Institute_of_Technology a ex:Organization .
+
+ex:Dublin_Institute_for_Advanced_Studies a ex:Organization .
+
 ex:Enrico_Fermi_award a ex:Award .
 
 ex:Franklin_Medal a ex:Award .
@@ -88,7 +94,7 @@ ex:Greenville a ex:Place .
 
 ex:Haitinger_Prize a ex:Award .
 
-ex:Harrowgate_Institute a ex:Organization .
+ex:Harrowgate_Institute_of_Technology a ex:Organization .
 
 ex:Herzl_Prize a ex:Award .
 
@@ -98,25 +104,28 @@ ex:Lower_Manhattan a ex:Place .
 
 ex:Marlowe_Medal a ex:Award .
 
+ex:Massachusetts_Institute_of_Technology a ex:Organization .
+
 ex:Max_Planck_Medal a ex:Award .
+
+ex:Northgate_Institute_of_Physics a ex:Organization .
 
 ex:Northgate_University a ex:Organization .
 
 ex:Oersted_Medal a ex:Award .
 
-ex:Osman_Gilani a ex:Person .
+ex:Osman_Gilani a ex:Person ;
+    ex:worksAt ex:Calder_Institute_of_Technology .
 
 ex:Queens a ex:Place .
+
+ex:University_of_Vienna a ex:Organization .
 
 ex:Vienna a ex:Place .
 
 ex:Wigner_Medal a ex:Award .
 
 ex:Yale_College a ex:Organization .
-
-ex:newly-established_Dublin_Institute a ex:Organization .
-
-ex:the_Budapest_University a ex:Organization .
 
 ex:Albert_Einstein_Award a ex:Award .
 
