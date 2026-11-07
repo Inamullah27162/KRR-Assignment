@@ -1,0 +1,148 @@
+person,predicate,value,result
+Charles H. Townes,bornIn,greenville,TP
+Erwin Schrödinger,bornIn,vienna,TP
+Eugene Wigner,bornIn,budapest,TP
+Murray Gell-Mann,bornIn,lower manhattan,TP
+Richard Feynman,bornIn,queens,TP
+Richard Feynman,bornIn,far rockaway,FN
+Charles H. Townes,educatedAt,furman university,TP
+Erwin Schrödinger,educatedAt,university of vienna,TP
+Murray Gell-Mann,educatedAt,massachusetts institute of technology,TP
+Murray Gell-Mann,educatedAt,yale,TP
+Charles H. Townes,educatedAt,california institute of technology,FN
+Charles H. Townes,educatedAt,duke university,FN
+Charles H. Townes,educatedAt,greenville high school,FN
+Erwin Schrödinger,educatedAt,akademisches gymnasium,FN
+Erwin Schrödinger,educatedAt,university of oxford,FN
+Eugene Wigner,educatedAt,fasori gimnazium,FN
+Eugene Wigner,educatedAt,technische universitat berlin,FN
+Murray Gell-Mann,educatedAt,columbia grammar preparatory school,FN
+Murray Gell-Mann,educatedAt,jonathan edwards college,FN
+Richard Feynman,educatedAt,far rockaway high school,FN
+Richard Feynman,educatedAt,massachusetts institute of technology,FN
+Richard Feynman,educatedAt,princeton university,FN
+Charles H. Townes,receivedAward,nobel prize,TP
+Erwin Schrödinger,receivedAward,haitinger prize,TP
+Erwin Schrödinger,receivedAward,nobel prize,TP
+Eugene Wigner,receivedAward,albert einstein award,TP
+Eugene Wigner,receivedAward,atoms for peace award,TP
+Eugene Wigner,receivedAward,enrico fermi award,TP
+Eugene Wigner,receivedAward,franklin medal,TP
+Eugene Wigner,receivedAward,max planck medal,TP
+Eugene Wigner,receivedAward,national medal of science,TP
+Eugene Wigner,receivedAward,nobel prize,TP
+Eugene Wigner,receivedAward,wigner medal,TP
+Murray Gell-Mann,receivedAward,nobel prize,TP
+Richard Feynman,receivedAward,albert einstein award,TP
+Richard Feynman,receivedAward,national medal of science,TP
+Richard Feynman,receivedAward,nobel prize,TP
+Richard Feynman,receivedAward,oersted medal,TP
+Eugene Wigner,receivedAward,golden plate award,FP
+Eugene Wigner,receivedAward,herzl prize,FP
+Charles H. Townes,receivedAward,c e k mees medal,FN
+Charles H. Townes,receivedAward,comstock prize in physics,FN
+Charles H. Townes,receivedAward,earle k plyler prize,FN
+Charles H. Townes,receivedAward,fellow of the american academy of arts and sciences,FN
+Charles H. Townes,receivedAward,fellow of the american physical society,FN
+Charles H. Townes,receivedAward,foreign member of the royal society,FN
+Charles H. Townes,receivedAward,frederic ives medal,FN
+Charles H. Townes,receivedAward,guggenheim fellowship,FN
+Charles H. Townes,receivedAward,henry norris russell lectureship,FN
+Charles H. Townes,receivedAward,honorary doctorate from ens,FN
+Charles H. Townes,receivedAward,ieee david sarnoff award,FN
+Charles H. Townes,receivedAward,ieee medal of honor,FN
+Charles H. Townes,receivedAward,ieee morris n liebmann memorial award,FN
+Charles H. Townes,receivedAward,john j carty award for the advancement of science,FN
+Charles H. Townes,receivedAward,john scott award,FN
+Charles H. Townes,receivedAward,karl g jansky lectureship,FN
+Charles H. Townes,receivedAward,karl schwarzschild medal,FN
+Charles H. Townes,receivedAward,lomonosov gold medal,FN
+Charles H. Townes,receivedAward,mendel medal,FN
+Charles H. Townes,receivedAward,national inventors hall of fame,FN
+Charles H. Townes,receivedAward,national medal of science,FN
+Charles H. Townes,receivedAward,niels bohr international gold medal,FN
+Charles H. Townes,receivedAward,petrie prize lecture,FN
+Charles H. Townes,receivedAward,remsen award,FN
+Charles H. Townes,receivedAward,richtmyer memorial lecture award,FN
+Charles H. Townes,receivedAward,rumford prize,FN
+Charles H. Townes,receivedAward,science writing award,FN
+Charles H. Townes,receivedAward,spie gold medal,FN
+Charles H. Townes,receivedAward,stuart ballantine medal,FN
+Charles H. Townes,receivedAward,templeton prize,FN
+Charles H. Townes,receivedAward,wilhelm exner medal,FN
+Charles H. Townes,receivedAward,young medal and prize,FN
+Erwin Schrödinger,receivedAward,austrian decoration for science and art,FN
+Erwin Schrödinger,receivedAward,erwin schrodinger prize,FN
+Erwin Schrödinger,receivedAward,fellow of the american physical society,FN
+Erwin Schrödinger,receivedAward,foreign member of the royal society,FN
+Erwin Schrödinger,receivedAward,matteucci medal,FN
+Erwin Schrödinger,receivedAward,max planck medal,FN
+Erwin Schrödinger,receivedAward,pour le merite,FN
+Erwin Schrödinger,receivedAward,pour le merite for sciences and arts order,FN
+Erwin Schrödinger,receivedAward,prix paul doistau emile blutet de l information scientifique,FN
+Erwin Schrödinger,receivedAward,prize of the city of vienna for natural sciences,FN
+Eugene Wigner,receivedAward,fellow of the american physical society,FN
+Eugene Wigner,receivedAward,foreign member of the royal society,FN
+Eugene Wigner,receivedAward,john von neumann prize,FN
+Eugene Wigner,receivedAward,josiah willard gibbs lectureship,FN
+Eugene Wigner,receivedAward,medal for merit,FN
+Eugene Wigner,receivedAward,richtmyer memorial lecture award,FN
+Murray Gell-Mann,receivedAward,albert einstein medal,FN
+Murray Gell-Mann,receivedAward,dannie heineman prize for mathematical physics,FN
+Murray Gell-Mann,receivedAward,ernest orlando lawrence award,FN
+Murray Gell-Mann,receivedAward,fellow of the american academy of arts and sciences,FN
+Murray Gell-Mann,receivedAward,fellow of the american physical society,FN
+Murray Gell-Mann,receivedAward,fellow of the committee for skeptical inquiry,FN
+Murray Gell-Mann,receivedAward,fellow of the pakistan academy of sciences,FN
+Murray Gell-Mann,receivedAward,foreign member of the royal society,FN
+Murray Gell-Mann,receivedAward,franklin medal,FN
+Murray Gell-Mann,receivedAward,golden plate award,FN
+Murray Gell-Mann,receivedAward,guggenheim fellowship,FN
+Murray Gell-Mann,receivedAward,helmholtz medal,FN
+Murray Gell-Mann,receivedAward,honorary doctor of the university of chicago,FN
+Murray Gell-Mann,receivedAward,honorary doctor of the university of oxford,FN
+Murray Gell-Mann,receivedAward,honorary doctor of yale university,FN
+Murray Gell-Mann,receivedAward,honorary doctorate from columbia university,FN
+Murray Gell-Mann,receivedAward,honorary doctorate from the university of cambridge,FN
+Murray Gell-Mann,receivedAward,honorary doctorate of the university of florida,FN
+Murray Gell-Mann,receivedAward,humanist of the year,FN
+Murray Gell-Mann,receivedAward,john j carty award for the advancement of science,FN
+Murray Gell-Mann,receivedAward,richtmyer memorial lecture award,FN
+Murray Gell-Mann,receivedAward,william procter prize for scientific achievement,FN
+Richard Feynman,receivedAward,ernest orlando lawrence award,FN
+Richard Feynman,receivedAward,fellow of the american physical society,FN
+Richard Feynman,receivedAward,foreign member of the royal society,FN
+Richard Feynman,receivedAward,niels bohr international gold medal,FN
+Richard Feynman,receivedAward,putnam fellow,FN
+Erwin Schrödinger,worksAt,dublin institute for advanced studies,TP
+Charles H. Townes,worksAt,massachusetts institute of technology,FN
+Charles H. Townes,worksAt,university of california berkeley,FN
+Charles H. Townes,worksAt,university of michigan,FN
+Erwin Schrödinger,worksAt,frederick william university berlin,FN
+Erwin Schrödinger,worksAt,ghent university,FN
+Erwin Schrödinger,worksAt,humboldt universitat zu berlin,FN
+Erwin Schrödinger,worksAt,university of graz,FN
+Erwin Schrödinger,worksAt,university of jena,FN
+Erwin Schrödinger,worksAt,university of oxford,FN
+Erwin Schrödinger,worksAt,university of stuttgart,FN
+Erwin Schrödinger,worksAt,university of vienna,FN
+Erwin Schrödinger,worksAt,university of wroc aw,FN
+Erwin Schrödinger,worksAt,university of zurich,FN
+Eugene Wigner,worksAt,leiden university,FN
+Eugene Wigner,worksAt,manhattan project,FN
+Eugene Wigner,worksAt,oak ridge national laboratory,FN
+Eugene Wigner,worksAt,princeton university,FN
+Eugene Wigner,worksAt,technische universitat berlin,FN
+Eugene Wigner,worksAt,university of gottingen,FN
+Eugene Wigner,worksAt,university of wisconsin madison,FN
+Murray Gell-Mann,worksAt,california institute of technology,FN
+Murray Gell-Mann,worksAt,university of chicago,FN
+Richard Feynman,worksAt,california institute of technology,FN
+Richard Feynman,worksAt,cornell university,FN
+Richard Feynman,worksAt,manhattan project,FN
+Erwin Schrödinger,doctoralAdvisor,friedrich hasenohrl,TP
+Richard Feynman,doctoralAdvisor,john archibald wheeler,TP
+Charles H. Townes,doctoralAdvisor,william ralph smythe,FN
+Erwin Schrödinger,doctoralAdvisor,franz s exner,FN
+Eugene Wigner,doctoralAdvisor,michael polanyi,FN
+Murray Gell-Mann,doctoralAdvisor,victor weisskopf,FN
